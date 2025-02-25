@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @Zaki-Khatib
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 Email : zakikhatib12@gmail.com
+
 
 <!---
 Zaki-Khatib/Zaki-Khatib is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
