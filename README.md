@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Zaki-Khatib
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on ...
 - 📫 Email : zakikhatib12@gmail.com
 
 
